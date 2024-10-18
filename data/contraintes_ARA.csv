@@ -1,0 +1,30 @@
+﻿Donnees de la region
+Puissance ENR installee;Puissance Totale a compenser;Energie non-evacuee moyenne Printemps;Energie non-evacuee moyenne Ete;Energie non-evacuee moyenne Automne;Energie non-evacuee moyenne Hiver
+13251MW;83.00MW;23.00MWh;1049.00MWh;14.00MWh;0.00MWh
+
+
+
+
+
+Donnees de zones de la region
+Zone;Puissance totale a compenser;Nombre de contraintes;Energie non-evacuee moyenne
+Ain;6.00;3;526MWh/an
+Beaufortain;14.00;2;244MWh/an
+Ouest-Cantal;21.00;2;131MWh/an
+Ouest-Puy-de-Dome;16.00;2;105MWh/an
+Vercors-Beaurepaire;6.00;2;4MWh/an
+Haute-Loire Sud-Puy-de-Dome;13.00;1;14MWh/an
+Haute-Savoie Gex;7.00;1;62MWh/an
+Drac-Romanche;0.00;0;0MWh/an
+Drome-Vallee-Rhone-Sud;0.00;0;0MWh/an
+Est-Allier;0.00;0;0MWh/an
+Est-Cantal;0.00;0;0MWh/an
+Est-Puy-de-Dome;0.00;0;0MWh/an
+Loire-Forez;0.00;0;0MWh/an
+Lyon-Rhone;0.00;0;0MWh/an
+Ouest-Allier;0.00;0;0MWh/an
+Savoie-Maurienne;0.00;0;0MWh/an
+Sud-Ardeche;0.00;0;0MWh/an
+Tarentaise;0.00;0;0MWh/an
+Vallee-du-Rhone-Centre;0.00;0;0MWh/an
+Vallee-du-Rhone-Nord;0.00;0;0MWh/an
