@@ -7,3 +7,6 @@ devenv.local.nix
 
 # pre-commit
 .pre-commit-config.yaml
+
+# large file
+data/eco2mix-metropoles-tr.csv
