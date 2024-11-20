@@ -135,7 +135,7 @@ def length_from_coordinate(longitudes, latitudes):
 
 # Specificaly for substation dataset
 
-def show_map_substation_gradient(df, name_column_value, name_column_text ='text', scale_reverse = False ):
+def show_map_substation_gradient(df, name_column_value,fig_title, name_column_text ='text', scale_reverse = False ):
     
     fig = go.Figure(data=go.Scattergeo(
             locationmode = 'country names',
@@ -169,7 +169,7 @@ def show_map_substation_gradient(df, name_column_value, name_column_text ='text'
     fig.update_geos(fitbounds="locations")
 
     fig.update_layout(
-            title = 'Substation saturation during hivernal consumption - CAPARESEAU datas',
+            title = fig_title,
             width=800,  # Increased width
             height=800,  # Increased height
             autosize = False, 
