@@ -1,0 +1,660 @@
+CRIQU results :  NOGO
+injection ratio = 44 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 61 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ORCHI results :  NOGO
+injection ratio = 43 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+COSSI results :  GO
+injection ratio = 23 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 45 %, vs limitations perenne = 1400 h, temporaire = 0 h
+
+
+REINI results :  Analysis
+injection ratio = 33 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+TERRI results :  NOGO
+injection ratio = 93 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GROUX results :  NOGO
+injection ratio = 47 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 35 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+RIETV results :  NOGO
+injection ratio = 53 %, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage ratio = 43 %, vs limitations perenne = nan h, temporaire = nan h
+
+
+LECER results :  NOGO
+injection ratio = 4 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 30 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PERCY results :  NOGO
+injection ratio = 84 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+FEIGN results :  NOGO
+injection ratio = 33 %, vs limitations perennes = nan h, temporaires = 0 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CAMPE results :  NOGO
+injection ratio = 24 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 70 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+HEM results :  NOGO
+injection ratio = 77 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 55 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOGER results :  NOGO
+injection ratio = 44 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 56 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GONNE results :  NOGO
+injection ratio = 63 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 34 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARMEN results :  NOGO
+injection ratio = 5 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 49 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ANCER results :  NOGO
+injection ratio = 44 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAYAR results :  NOGO
+injection ratio = 17 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 25 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LANEU results :  NOGO
+injection ratio = 58 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 58 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FLEVI results :  NOGO
+injection ratio = 96 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 30 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+MEZEL results :  NOGO
+injection ratio = 25 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 50 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+SARZE results :  NOGO
+injection ratio = 4 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ALLAI results :  NOGO
+injection ratio = 82 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 80 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOCQU results :  NOGO
+injection ratio = 20 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GUIDE results :  NOGO
+injection ratio = 1 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 46 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOUIS results :  Analysis
+injection ratio = 88 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 30 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+DERVA results :  NOGO
+injection ratio = 98 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 40 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PAS results :  NOGO
+injection ratio = 34 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 58 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAUD results :  NOGO
+injection ratio = 0 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 31 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLOUA results :  NOGO
+injection ratio = 68 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 87 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOURI results :  NOGO
+injection ratio = 15 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 67 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BANNA results :  NOGO
+injection ratio = 9 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BENOD results :  NOGO
+injection ratio = 3 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 48 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUDIE results :  NOGO
+injection ratio = 32 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CLEDE results :  NOGO
+injection ratio = 41 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLOUR results :  NOGO
+injection ratio = 13 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 66 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLUZU results :  NOGO
+injection ratio = 53 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 70 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+MALMA results :  NOGO
+injection ratio = 2 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 43 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOUVI results :  NOGO
+injection ratio = 1 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 38 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VAUDR results :  NOGO
+injection ratio = 1 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 66 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ECRAI results :  NOGO
+injection ratio = 100 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 66 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+AUBER results :  NOGO
+injection ratio = 0 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 7 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SAUCO results :  NOGO
+injection ratio = 95 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 39 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+AMARG results :  NOGO
+injection ratio = 99 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 56 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+QUENT results :  NOGO
+injection ratio = 50 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 69 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+SERQU results :  NOGO
+injection ratio = 77 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 32 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LONGU results :  NOGO
+injection ratio = 61 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+TOLME results :  NOGO
+injection ratio = 49 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 58 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+SAONN results :  NOGO
+injection ratio = 81 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ERQUY results :  NOGO
+injection ratio = 15 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 73 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOSNE results :  NOGO
+injection ratio = 25 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BUTTE results :  NOGO
+injection ratio = 0 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 57 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DOUAI results :  NOGO
+injection ratio = 23 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 42 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VITRE results :  NOGO
+injection ratio = 23 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 70 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MORIH results :  NOGO
+injection ratio = 32 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+TINTE results :  NOGO
+injection ratio = 91 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DRULI results :  NOGO
+injection ratio = 37 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 43 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GRIBO results :  NOGO
+injection ratio = 43 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 50 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOUPE results :  NOGO
+injection ratio = 26 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 48 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MALES results :  NOGO
+injection ratio = 2 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 33 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+RAMBE results :  NOGO
+injection ratio = 51 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 43 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SORIG results :  NOGO
+injection ratio = 36 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 58 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BLERE results :  NOGO
+injection ratio = 92 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 44 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VOLVI results :  NOGO
+injection ratio = 9 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MARMA results :  NOGO
+injection ratio = 74 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 60 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+MORTA results :  NOGO
+injection ratio = 30 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 34 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DISTR results :  NOGO
+injection ratio = 86 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 56 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+THORI results :  NOGO
+injection ratio = 95 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 55 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENET results :  NOGO
+injection ratio = 89 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 47 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GRUES results :  NOGO
+injection ratio = 40 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 46 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ANSER results :  NOGO
+injection ratio = 35 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DOUVR results :  NOGO
+injection ratio = 4 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VERTE results :  NOGO
+injection ratio = 20 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 67 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVRIL results :  NOGO
+injection ratio = 19 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 29 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERLH results :  NOGO
+injection ratio = 17 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERFE results :  NOGO
+injection ratio = 13 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DONGE results :  NOGO
+injection ratio = 63 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 57 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MESNI results :  NOGO
+injection ratio = 30 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 63 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ODON results :  NOGO
+injection ratio = 71 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 27 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BARET results :  NOGO
+injection ratio = 91 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 44 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CAMBO results :  NOGO
+injection ratio = 14 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 60 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+G.COU results :  NOGO
+injection ratio = 58 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BRAIN results :  NOGO
+injection ratio = 95 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 42 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VANDI results :  GO
+injection ratio = 35 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 45 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLOMB results :  NOGO
+injection ratio = 3 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 22 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FONT results :  NOGO
+injection ratio = 30 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOULI results :  NOGO
+injection ratio = 1 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 61 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+REBEU results :  NOGO
+injection ratio = 36 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PHALS results :  NOGO
+injection ratio = 19 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 28 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+OSNES results :  NOGO
+injection ratio = 68 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 55 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LUTTE results :  NOGO
+injection ratio = 96 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 60 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+JEUXE results :  NOGO
+injection ratio = 31 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 53 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GLONV results :  NOGO
+injection ratio = 86 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 47 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DARNE results :  NOGO
+injection ratio = 42 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 57 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUXON results :  NOGO
+injection ratio = 54 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 46 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARGIE results :  NOGO
+injection ratio = 45 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 77 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOHON results :  NOGO
+injection ratio = 22 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 36 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CHECY results :  NOGO
+injection ratio = 67 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 50 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+SOMBU results :  NOGO
+injection ratio = 39 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 28 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+QUEVI results :  NOGO
+injection ratio = 1 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 54 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AVRIM results :  NOGO
+injection ratio = 40 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 46 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ALTKI results :  NOGO
+injection ratio = 35 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 66 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GANTE results :  NOGO
+injection ratio = 93 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 43 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAYON results :  NOGO
+injection ratio = 50 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 37 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+BROUS results :  NOGO
+injection ratio = 62 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 63 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+FLERS results :  NOGO
+injection ratio = 32 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 46 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BIGNA results :  NOGO
+injection ratio = 75 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 77 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+HEINL results :  NOGO
+injection ratio = 24 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 59 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVELI results :  NOGO
+injection ratio = 4 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 46 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+PALEN results :  NOGO
+injection ratio = 42 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 60 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MAINV results :  NOGO
+injection ratio = 0 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 47 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CHAIN results :  NOGO
+injection ratio = 81 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 43 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BLANZ results :  NOGO
+injection ratio = 30 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 25 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENEU results :  NOGO
+injection ratio = 23 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 34 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENLI results :  NOGO
+injection ratio = 51 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 41 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MAICH results :  NOGO
+injection ratio = 16 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 53 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VENDO results :  NOGO
+injection ratio = 58 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 51 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VENDO results :  NOGO
+injection ratio = 58 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 51 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+COLUM results :  NOGO
+injection ratio = 95 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 61 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+ALERI results :  NOGO
+injection ratio = 45 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 54 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AVRAN results :  NOGO
+injection ratio = 19 %, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage ratio = 77 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PAPIN results :  NOGO
+injection ratio = 18 %, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage ratio = 13 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ATTAQ results :  NOGO
+injection ratio = 31 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 31 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+THIER results :  NOGO
+injection ratio = 44 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 35 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VAILL results :  NOGO
+injection ratio = 62 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 37 %, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+AILLE results :  NOGO
+injection ratio = 13 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 47 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VITTE results :  NOGO
+injection ratio = 59 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 51 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+AMANV results :  NOGO
+injection ratio = 41 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 47 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+NIORT results :  NOGO
+injection ratio = 90 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 7 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+VENDI results :  NOGO
+injection ratio = 19 %, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage ratio = 45 %, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARPEN results :  GO
+injection ratio = 19 %, vs limitations perennes = - h, temporaires = 1450 h
+sous-tirage ratio = 36 %, vs limitations perenne = - h, temporaire = - h
+
+
+LIGNA results :  NOGO
+injection ratio = 22 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 52 %, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOISI results :  NOGO
+injection ratio = 73 %, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage ratio = 45 %, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
