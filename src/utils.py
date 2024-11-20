@@ -155,6 +155,7 @@ def show_map_substation_gradient(df, name_column_value,fig_title, name_column_te
                 ),
                 colorscale = [
                     [0,  'limegreen'],
+                    [0.6,  'gold'],
                     [1, 'crimson']
                 ],
                 cmin = 0,
