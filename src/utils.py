@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import math
 import geopy.distance
+import plotly.graph_objects as go
 
 
 # for all df
@@ -131,4 +132,70 @@ def length_from_coordinate(longitudes, latitudes):
         total_length += geopy.distance.geodesic(coords_1, coords_2).m
         
     return total_length
-        
+
+# Specificaly for substation dataset
+
+def show_map_substation_gradient(df, name_column_value, name_column_text ='text', scale_reverse = False ):
+    
+    fig = go.Figure(data=go.Scattergeo(
+            locationmode = 'country names',
+            lon = df['lon'],
+            lat = df['lat'],
+            text = df[name_column_text],
+            mode = 'markers',
+            marker = dict(
+                size = 6,
+                opacity = .95,
+                reversescale = scale_reverse,
+                autocolorscale = False,
+                symbol = 'square',
+                line = dict(
+                    width=1,
+                    color='rgba(102, 102, 102)'
+                ),
+                colorscale = [
+                    [0,  'limegreen'],
+                    [1, 'crimson']
+                ],
+                cmin = 0,
+                color = df[name_column_value],
+                cmax = df[name_column_value].max(),
+                colorbar=dict(
+                    title=dict(
+                        text=name_column_value
+                    )
+                )
+            )))
+    fig.update_geos(fitbounds="locations")
+
+    fig.update_layout(
+            title = 'Substation saturation during hivernal consumption - CAPARESEAU datas',
+            width=800,  # Increased width
+            height=800,  # Increased height
+            autosize = False, 
+            margin={"r":0,"t":100,"l":0,"b":0},
+            geo = dict(
+                scope='europe',
+                resolution = 50,
+                projection_type='mercator',
+                showland = True,
+                landcolor = "rgb(173, 217, 240)",
+                subunitcolor = "rgb(28, 12, 13)",
+                countrycolor = "rgb(28, 12, 13)",
+                countrywidth = .25,
+                subunitwidth = .25), 
+            coloraxis_colorbar=dict(
+                x=.1,  # Move colorbar slightly to the right
+                y=0.5,  # Center the colorbar vertically
+                len=0.75,  # Adjust length of colorbar
+                thickness=20,  # Increase thickness
+                title=dict(
+                    text=name_column_value,
+                    side="right"
+                ),
+                yanchor="middle"
+            )
+        )
+
+    fig.show()
+            
