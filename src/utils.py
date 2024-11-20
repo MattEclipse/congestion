@@ -135,7 +135,7 @@ def length_from_coordinate(longitudes, latitudes):
 
 # Specificaly for substation dataset
 
-def show_map_substation_gradient(df, name_column_value,fig_title, name_column_text ='text', scale_reverse = False ):
+def show_map_substation_gradient(df, name_column_value,fig_title, bar_title, name_column_text ='text', scale_reverse = False ):
     
     fig = go.Figure(data=go.Scattergeo(
             locationmode = 'country names',
@@ -163,7 +163,7 @@ def show_map_substation_gradient(df, name_column_value,fig_title, name_column_te
                 cmax = df[name_column_value].max(),
                 colorbar=dict(
                     title=dict(
-                        text=name_column_value
+                        text=bar_title
                     )
                 )
             )))
