@@ -658,3 +658,1718 @@ injection RAM = 21.222 MW, vs limitations perennes = 0 h, temporaires = 2000 h
 sous-tirage RAM = 39.6 MW, vs limitations perenne = 0 h, temporaire = 2000 h
 
 
+ETREP, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CRIQU, demande : 50 MW?, results :  NOGO
+injection RAM = 45.30400000000001 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 28.080000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ORCHI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+COSSI, demande : 50 MW?, results :  GO
+injection RAM = 67.221 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 44.0 MW, vs limitations perenne = 1400 h, temporaire = 0 h
+
+
+FRUGE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 106.92 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+REINI, demande : 50 MW?, results :  Analysis
+injection RAM = 53.13099999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+TERRI, demande : 50 MW?, results :  NOGO
+injection RAM = 3.093999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GROUX, demande : 50 MW?, results :  NOGO
+injection RAM = 40.863 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 46.800000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+RIETV, demande : 50 MW?, results :  NOGO
+injection RAM = 28.622999999999998 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 31.92 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+LECER, demande : 50 MW?, results :  NOGO
+injection RAM = 73.34400000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.4 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PERCY, demande : 50 MW?, results :  NOGO
+injection RAM = 12.576000000000002 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+FEIGN, demande : 50 MW?, results :  NOGO
+injection RAM = 52.25999999999999 MW, vs limitations perennes = nan h, temporaires = 0 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CAMPE, demande : 50 MW?, results :  NOGO
+injection RAM = 62.32 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+RANVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 59.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+HEM, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOGER, demande : 50 MW?, results :  NOGO
+injection RAM = 44.912000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GONNE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 44.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ENVER, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 82.08 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BUQUE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.88 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARMEN, demande : 50 MW?, results :  NOGO
+injection RAM = 166.915 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 81.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PITHI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 19.080000000000002 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+ENSIS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 29.68 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+ANCER, demande : 50 MW?, results :  NOGO
+injection RAM = 33.992000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+WADON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 14.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+BAYAR, demande : 50 MW?, results :  NOGO
+injection RAM = 26.145 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.5 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LANEU, demande : 50 MW?, results :  NOGO
+injection RAM = 33.76800000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FLEVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.8480000000000008 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 14.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+STENA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.4 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MEZEL, demande : 50 MW?, results :  NOGO
+injection RAM = 89.1 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 54.0 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FLOIN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 44.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SEMBL, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = nan h, temporaire = 0 h
+
+
+AMBON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SARZE, demande : 50 MW?, results :  NOGO
+injection RAM = 75.36 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ALLAI, demande : 50 MW?, results :  NOGO
+injection RAM = 4.176000000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 3.999999999999999 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOCQU, demande : 50 MW?, results :  NOGO
+injection RAM = 31.200000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GUIDE, demande : 50 MW?, results :  NOGO
+injection RAM = 60.588 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLELA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 56.88 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MESSA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOUIS, demande : 50 MW?, results :  Analysis
+injection RAM = 7.127999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.199999999999996 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+DERVA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.7780000000000007 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.599999999999998 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PAS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAUD, demande : 50 MW?, results :  NOGO
+injection RAM = 106.3 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 69.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLOUA, demande : 50 MW?, results :  NOGO
+injection RAM = 7.519999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 2.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOURI, demande : 50 MW?, results :  NOGO
+injection RAM = 19.294999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 6.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SCAER, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 18.72 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BANNA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.02 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 10.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BENOD, demande : 50 MW?, results :  NOGO
+injection RAM = 76.63 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 37.44 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+POULD, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 6.000000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUDIE, demande : 50 MW?, results :  NOGO
+injection RAM = 30.056 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ABERS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 5.6000000000000005 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+CLEDE, demande : 50 MW?, results :  NOGO
+injection RAM = 23.364000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 18.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLEMY, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 3.999999999999999 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+LANFA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 17.200000000000003 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLUSQ, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 25.56 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLOUR, demande : 50 MW?, results :  NOGO
+injection RAM = 70.99199999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLUZU, demande : 50 MW?, results :  NOGO
+injection RAM = 10.716 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 6.000000000000001 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+AUNEA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 66.96 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+NERON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 49.67999999999999 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+VOVES, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 88.56 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+INSMI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = Non étudié h, temporaires = Non étudié h
+sous-tirage RAM = 11.0 MW, vs limitations perenne = Non étudié h, temporaire = Non étudié h
+
+
+MALMA, demande : 50 MW?, results :  NOGO
+injection RAM = 76.734 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DOULL, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LISLE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 132.48000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOUVI, demande : 50 MW?, results :  NOGO
+injection RAM = 85.23899999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 49.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+THIOT, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VAUDR, demande : 50 MW?, results :  NOGO
+injection RAM = 121.077 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 36.72 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ECRAI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 12.239999999999998 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+HARCA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 10.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUBER, demande : 50 MW?, results :  NOGO
+injection RAM = 213.3 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 195.29999999999998 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SAUCO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 230.39999999999998 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+AMARG, demande : 50 MW?, results :  NOGO
+injection RAM = 1.3350000000000013 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 52.8 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ARGOE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 60.42000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+QUENT, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 46.440000000000005 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BLOCA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 158.4 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+SERQU, demande : 50 MW?, results :  NOGO
+injection RAM = 17.641 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 48.959999999999994 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LONGU, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 58.32000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BACCH, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 24.080000000000002 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+TOLME, demande : 50 MW?, results :  NOGO
+injection RAM = 61.557 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 45.36000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+SAONN, demande : 50 MW?, results :  NOGO
+injection RAM = 8.397999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ERQUY, demande : 50 MW?, results :  NOGO
+injection RAM = 39.015 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 10.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOSNE, demande : 50 MW?, results :  NOGO
+injection RAM = 59.400000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BUTTE, demande : 50 MW?, results :  NOGO
+injection RAM = 156.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 60.20000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DOUAI, demande : 50 MW?, results :  NOGO
+injection RAM = 60.137 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+A.PLE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 27.199999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VITRE, demande : 50 MW?, results :  NOGO
+injection RAM = 63.217 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MORIH, demande : 50 MW?, results :  NOGO
+injection RAM = 53.03999999999999 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+SEVIG, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+TADEN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 16.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+TINTE, demande : 50 MW?, results :  NOGO
+injection RAM = 5.849999999999998 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 35.400000000000006 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DRULI, demande : 50 MW?, results :  NOGO
+injection RAM = 27.405 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 22.800000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GRIBO, demande : 50 MW?, results :  NOGO
+injection RAM = 45.144000000000005 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOUPE, demande : 50 MW?, results :  NOGO
+injection RAM = 32.486 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 20.8 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MALES, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 12.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+RAMBE, demande : 50 MW?, results :  NOGO
+injection RAM = 38.318 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SORIG, demande : 50 MW?, results :  NOGO
+injection RAM = 51.456 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BLERE, demande : 50 MW?, results :  NOGO
+injection RAM = 4.879999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 31.360000000000003 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VOLVI, demande : 50 MW?, results :  NOGO
+injection RAM = 71.435 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MARMA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.982000000000003 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+PAUDY, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 194.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MORTA, demande : 50 MW?, results :  NOGO
+injection RAM = 53.83 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DISTR, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CHEMI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+THORI, demande : 50 MW?, results :  NOGO
+injection RAM = 3.110000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 25.199999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENET, demande : 50 MW?, results :  NOGO
+injection RAM = 4.817999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOURA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 17.599999999999998 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+GRUES, demande : 50 MW?, results :  NOGO
+injection RAM = 26.220000000000002 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ANSER, demande : 50 MW?, results :  NOGO
+injection RAM = 56.745 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 44.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DOUVR, demande : 50 MW?, results :  NOGO
+injection RAM = 75.36 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VERTE, demande : 50 MW?, results :  NOGO
+injection RAM = 36.32 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 13.2 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVRIL, demande : 50 MW?, results :  NOGO
+injection RAM = 61.803000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 51.12 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERLH, demande : 50 MW?, results :  NOGO
+injection RAM = 65.736 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERFE, demande : 50 MW?, results :  NOGO
+injection RAM = 138.417 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 69.12 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DONGE, demande : 50 MW?, results :  NOGO
+injection RAM = 29.711 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 30.960000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MESNI, demande : 50 MW?, results :  NOGO
+injection RAM = 56.839999999999996 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 26.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ODON, demande : 50 MW?, results :  NOGO
+injection RAM = 12.238000000000003 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 29.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VASTO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BARET, demande : 50 MW?, results :  NOGO
+injection RAM = 7.055999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 40.32000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CAMBO, demande : 50 MW?, results :  NOGO
+injection RAM = 69.402 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+G.COU, demande : 50 MW?, results :  NOGO
+injection RAM = 33.012 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BRAIN, demande : 50 MW?, results :  NOGO
+injection RAM = 3.9050000000000034 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+FREIG, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 53.28 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+THEVA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 19.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VANDI, demande : 50 MW?, results :  GO
+injection RAM = 51.025 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLOMB, demande : 50 MW?, results :  NOGO
+injection RAM = 40.546 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 31.200000000000003 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FRASN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 8.0 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+COUCH, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 13.68 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FONT, demande : 50 MW?, results :  NOGO
+injection RAM = 117.66999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 72.96 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOULI, demande : 50 MW?, results :  NOGO
+injection RAM = 177.804 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 62.400000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+REBEU, demande : 50 MW?, results :  NOGO
+injection RAM = 49.92 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PHALS, demande : 50 MW?, results :  NOGO
+injection RAM = 34.263 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+OSNES, demande : 50 MW?, results :  NOGO
+injection RAM = 14.207999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 18.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LUTTE, demande : 50 MW?, results :  NOGO
+injection RAM = 3.228000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+JEUXE, demande : 50 MW?, results :  NOGO
+injection RAM = 54.992999999999995 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GLONV, demande : 50 MW?, results :  NOGO
+injection RAM = 6.132000000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DARNE, demande : 50 MW?, results :  NOGO
+injection RAM = 25.868000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 17.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUXON, demande : 50 MW?, results :  NOGO
+injection RAM = 20.102 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUTUN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 43.199999999999996 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+ARGIE, demande : 50 MW?, results :  NOGO
+injection RAM = 22.880000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 8.28 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOHON, demande : 50 MW?, results :  NOGO
+injection RAM = 90.324 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 69.12 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CHECY, demande : 50 MW?, results :  NOGO
+injection RAM = 26.168999999999997 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+SOMBU, demande : 50 MW?, results :  NOGO
+injection RAM = 25.802999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+QUEVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AVRIM, demande : 50 MW?, results :  NOGO
+injection RAM = 26.220000000000002 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ALTKI, demande : 50 MW?, results :  NOGO
+injection RAM = 53.04 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GANTE, demande : 50 MW?, results :  NOGO
+injection RAM = 5.473999999999997 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAYON, demande : 50 MW?, results :  NOGO
+injection RAM = 21.5 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 25.2 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+BROUS, demande : 50 MW?, results :  NOGO
+injection RAM = 30.817999999999998 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 26.64 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+FLERS, demande : 50 MW?, results :  NOGO
+injection RAM = 107.032 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 77.76 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BIGNA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.8 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 16.56 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+HEINL, demande : 50 MW?, results :  NOGO
+injection RAM = 91.884 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 44.28 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVELI, demande : 50 MW?, results :  NOGO
+injection RAM = 113.37599999999999 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 58.32000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+PALEN, demande : 50 MW?, results :  NOGO
+injection RAM = 46.806000000000004 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PALLU, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MAINV, demande : 50 MW?, results :  NOGO
+injection RAM = 328.7 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 159.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CHAIN, demande : 50 MW?, results :  NOGO
+injection RAM = 6.193999999999998 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 17.1 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BLANZ, demande : 50 MW?, results :  NOGO
+injection RAM = 60.339999999999996 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 61.5 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENEU, demande : 50 MW?, results :  NOGO
+injection RAM = 59.29 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENLI, demande : 50 MW?, results :  NOGO
+injection RAM = 21.217 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 23.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MAICH, demande : 50 MW?, results :  NOGO
+injection RAM = 37.211999999999996 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 18.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VENDO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 88.56 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VENDO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 88.56 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+COLUM, demande : 50 MW?, results :  NOGO
+injection RAM = 2.245000000000002 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 15.600000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+M.LAN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ALERI, demande : 50 MW?, results :  NOGO
+injection RAM = 43.89 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.12 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AVRAN, demande : 50 MW?, results :  NOGO
+injection RAM = 67.39200000000001 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 16.56 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PAPIN, demande : 50 MW?, results :  NOGO
+injection RAM = 67.40400000000001 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 69.6 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ATTAQ, demande : 50 MW?, results :  NOGO
+injection RAM = 52.85399999999999 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 49.67999999999999 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+THIER, demande : 50 MW?, results :  NOGO
+injection RAM = 17.976000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.5 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VAILL, demande : 50 MW?, results :  NOGO
+injection RAM = 44.156 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 68.04 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+VENES, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 91.8 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+AILLE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 54.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AMELE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 97.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VOUZI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 87.48 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DUGNY, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 24.080000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VITTE, demande : 50 MW?, results :  NOGO
+injection RAM = 41.574000000000005 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 45.08 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+AMANV, demande : 50 MW?, results :  NOGO
+injection RAM = 25.842000000000002 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+TIVER, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 88.56 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+BARBU, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 101.92 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+CRENE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 165.12 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+EGUZO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 12.239999999999998 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+NIORT, demande : 50 MW?, results :  NOGO
+injection RAM = 5.199999999999999 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 70.67999999999999 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+VENDI, demande : 50 MW?, results :  NOGO
+injection RAM = 176.742 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 110.00000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARPEN, demande : 50 MW?, results :  GO
+injection RAM = 62.613 MW, vs limitations perennes = - h, temporaires = 1450 h
+sous-tirage RAM = 46.08 MW, vs limitations perenne = - h, temporaire = - h
+
+
+LIGNA, demande : 50 MW?, results :  NOGO
+injection RAM = 62.010000000000005 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 34.56 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOISI, demande : 50 MW?, results :  NOGO
+injection RAM = 21.222 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+VALDE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 76.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ETREP, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CRIQU, demande : 50 MW?, results :  NOGO
+injection RAM = 45.30400000000001 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 28.080000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ORCHI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+COSSI, demande : 50 MW?, results :  GO
+injection RAM = 67.221 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 44.0 MW, vs limitations perenne = 1400 h, temporaire = 0 h
+
+
+FRUGE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 106.92 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+REINI, demande : 50 MW?, results :  Analysis
+injection RAM = 53.13099999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+TERRI, demande : 50 MW?, results :  NOGO
+injection RAM = 3.093999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GROUX, demande : 50 MW?, results :  NOGO
+injection RAM = 40.863 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 46.800000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+RIETV, demande : 50 MW?, results :  NOGO
+injection RAM = 28.622999999999998 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 31.92 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+LECER, demande : 50 MW?, results :  NOGO
+injection RAM = 73.34400000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.4 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PERCY, demande : 50 MW?, results :  NOGO
+injection RAM = 12.576000000000002 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+FEIGN, demande : 50 MW?, results :  NOGO
+injection RAM = 52.25999999999999 MW, vs limitations perennes = nan h, temporaires = 0 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CAMPE, demande : 50 MW?, results :  NOGO
+injection RAM = 62.32 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+RANVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 59.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+HEM, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOGER, demande : 50 MW?, results :  NOGO
+injection RAM = 44.912000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GONNE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 44.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ENVER, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 82.08 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BUQUE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.88 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ARMEN, demande : 50 MW?, results :  NOGO
+injection RAM = 166.915 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 81.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PITHI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 19.080000000000002 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+ENSIS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 29.68 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+ANCER, demande : 50 MW?, results :  NOGO
+injection RAM = 33.992000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+WADON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 14.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+BAYAR, demande : 50 MW?, results :  NOGO
+injection RAM = 26.145 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.5 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LANEU, demande : 50 MW?, results :  NOGO
+injection RAM = 33.76800000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FLEVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.8480000000000008 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 14.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+STENA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 50.4 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MEZEL, demande : 50 MW?, results :  NOGO
+injection RAM = 89.1 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 54.0 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FLOIN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 44.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SEMBL, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = nan h, temporaire = 0 h
+
+
+AMBON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SARZE, demande : 50 MW?, results :  NOGO
+injection RAM = 75.36 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ALLAI, demande : 50 MW?, results :  NOGO
+injection RAM = 4.176000000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 3.999999999999999 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOCQU, demande : 50 MW?, results :  NOGO
+injection RAM = 31.200000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GUIDE, demande : 50 MW?, results :  NOGO
+injection RAM = 60.588 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLELA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 56.88 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MESSA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LOUIS, demande : 50 MW?, results :  Analysis
+injection RAM = 7.127999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.199999999999996 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+DERVA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.7780000000000007 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.599999999999998 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PAS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAUD, demande : 50 MW?, results :  NOGO
+injection RAM = 106.3 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 69.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLOUA, demande : 50 MW?, results :  NOGO
+injection RAM = 7.519999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 2.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOURI, demande : 50 MW?, results :  NOGO
+injection RAM = 19.294999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 6.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SCAER, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 18.72 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BANNA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.02 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 10.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BENOD, demande : 50 MW?, results :  NOGO
+injection RAM = 76.63 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 37.44 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+POULD, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 6.000000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUDIE, demande : 50 MW?, results :  NOGO
+injection RAM = 30.056 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ABERS, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 5.6000000000000005 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+CLEDE, demande : 50 MW?, results :  NOGO
+injection RAM = 23.364000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 18.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PLEMY, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 3.999999999999999 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+LANFA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 17.200000000000003 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLUSQ, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 25.56 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLOUR, demande : 50 MW?, results :  NOGO
+injection RAM = 70.99199999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLUZU, demande : 50 MW?, results :  NOGO
+injection RAM = 10.716 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 6.000000000000001 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+AUNEA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 66.96 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+NERON, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 49.67999999999999 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+VOVES, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 88.56 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+INSMI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = Non étudié h, temporaires = Non étudié h
+sous-tirage RAM = 11.0 MW, vs limitations perenne = Non étudié h, temporaire = Non étudié h
+
+
+MALMA, demande : 50 MW?, results :  NOGO
+injection RAM = 76.734 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DOULL, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LISLE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 132.48000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOUVI, demande : 50 MW?, results :  NOGO
+injection RAM = 85.23899999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 49.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+THIOT, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VAUDR, demande : 50 MW?, results :  NOGO
+injection RAM = 121.077 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 36.72 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ECRAI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 12.239999999999998 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+HARCA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 10.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUBER, demande : 50 MW?, results :  NOGO
+injection RAM = 213.3 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 195.29999999999998 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SAUCO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 230.39999999999998 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+AMARG, demande : 50 MW?, results :  NOGO
+injection RAM = 1.3350000000000013 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 52.8 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ARGOE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 60.42000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+QUENT, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 46.440000000000005 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BLOCA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 158.4 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+SERQU, demande : 50 MW?, results :  NOGO
+injection RAM = 17.641 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 48.959999999999994 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+LONGU, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 58.32000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BACCH, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 24.080000000000002 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+TOLME, demande : 50 MW?, results :  NOGO
+injection RAM = 61.557 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 45.36000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+SAONN, demande : 50 MW?, results :  NOGO
+injection RAM = 8.397999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 19.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ERQUY, demande : 50 MW?, results :  NOGO
+injection RAM = 39.015 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 10.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOSNE, demande : 50 MW?, results :  NOGO
+injection RAM = 59.400000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BUTTE, demande : 50 MW?, results :  NOGO
+injection RAM = 156.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 60.20000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DOUAI, demande : 50 MW?, results :  NOGO
+injection RAM = 60.137 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+A.PLE, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 27.199999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VITRE, demande : 50 MW?, results :  NOGO
+injection RAM = 63.217 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MORIH, demande : 50 MW?, results :  NOGO
+injection RAM = 53.03999999999999 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+SEVIG, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+TADEN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 16.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+TINTE, demande : 50 MW?, results :  NOGO
+injection RAM = 5.849999999999998 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 35.400000000000006 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DRULI, demande : 50 MW?, results :  NOGO
+injection RAM = 27.405 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 22.800000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GRIBO, demande : 50 MW?, results :  NOGO
+injection RAM = 45.144000000000005 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LOUPE, demande : 50 MW?, results :  NOGO
+injection RAM = 32.486 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 20.8 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MALES, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 12.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+RAMBE, demande : 50 MW?, results :  NOGO
+injection RAM = 38.318 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+SORIG, demande : 50 MW?, results :  NOGO
+injection RAM = 51.456 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BLERE, demande : 50 MW?, results :  NOGO
+injection RAM = 4.879999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 31.360000000000003 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VOLVI, demande : 50 MW?, results :  NOGO
+injection RAM = 71.435 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MARMA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.982000000000003 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+PAUDY, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 194.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MORTA, demande : 50 MW?, results :  NOGO
+injection RAM = 53.83 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DISTR, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CHEMI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 30.240000000000002 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+THORI, demande : 50 MW?, results :  NOGO
+injection RAM = 3.110000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 25.199999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENET, demande : 50 MW?, results :  NOGO
+injection RAM = 4.817999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GOURA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 17.599999999999998 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+GRUES, demande : 50 MW?, results :  NOGO
+injection RAM = 26.220000000000002 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ANSER, demande : 50 MW?, results :  NOGO
+injection RAM = 56.745 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 44.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+DOUVR, demande : 50 MW?, results :  NOGO
+injection RAM = 75.36 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+VERTE, demande : 50 MW?, results :  NOGO
+injection RAM = 36.32 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 13.2 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVRIL, demande : 50 MW?, results :  NOGO
+injection RAM = 61.803000000000004 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 51.12 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERLH, demande : 50 MW?, results :  NOGO
+injection RAM = 65.736 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VERFE, demande : 50 MW?, results :  NOGO
+injection RAM = 138.417 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 69.12 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DONGE, demande : 50 MW?, results :  NOGO
+injection RAM = 29.711 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 30.960000000000004 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+MESNI, demande : 50 MW?, results :  NOGO
+injection RAM = 56.839999999999996 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 26.64 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+ODON, demande : 50 MW?, results :  NOGO
+injection RAM = 12.238000000000003 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 29.2 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VASTO, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BARET, demande : 50 MW?, results :  NOGO
+injection RAM = 7.055999999999998 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 40.32000000000001 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CAMBO, demande : 50 MW?, results :  NOGO
+injection RAM = 69.402 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+G.COU, demande : 50 MW?, results :  NOGO
+injection RAM = 33.012 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BRAIN, demande : 50 MW?, results :  NOGO
+injection RAM = 3.9050000000000034 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 41.760000000000005 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+FREIG, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 53.28 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+THEVA, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 19.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+VANDI, demande : 50 MW?, results :  GO
+injection RAM = 51.025 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 39.6 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+PLOMB, demande : 50 MW?, results :  NOGO
+injection RAM = 40.546 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 31.200000000000003 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FRASN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 8.0 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+COUCH, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 13.68 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+FONT, demande : 50 MW?, results :  NOGO
+injection RAM = 117.66999999999999 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 72.96 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOULI, demande : 50 MW?, results :  NOGO
+injection RAM = 177.804 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 62.400000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+REBEU, demande : 50 MW?, results :  NOGO
+injection RAM = 49.92 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 42.480000000000004 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PHALS, demande : 50 MW?, results :  NOGO
+injection RAM = 34.263 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+OSNES, demande : 50 MW?, results :  NOGO
+injection RAM = 14.207999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 18.0 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+LUTTE, demande : 50 MW?, results :  NOGO
+injection RAM = 3.228000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+JEUXE, demande : 50 MW?, results :  NOGO
+injection RAM = 54.992999999999995 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 33.839999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GLONV, demande : 50 MW?, results :  NOGO
+injection RAM = 6.132000000000001 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+DARNE, demande : 50 MW?, results :  NOGO
+injection RAM = 25.868000000000006 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 17.200000000000003 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUXON, demande : 50 MW?, results :  NOGO
+injection RAM = 20.102 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AUTUN, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = nan h, temporaires = nan h
+sous-tirage RAM = 43.199999999999996 MW, vs limitations perenne = nan h, temporaire = nan h
+
+
+ARGIE, demande : 50 MW?, results :  NOGO
+injection RAM = 22.880000000000003 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 8.28 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MOHON, demande : 50 MW?, results :  NOGO
+injection RAM = 90.324 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 69.12 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+CHECY, demande : 50 MW?, results :  NOGO
+injection RAM = 26.168999999999997 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 36.0 MW, vs limitations perenne = 0 h, temporaire = 0 h
+
+
+SOMBU, demande : 50 MW?, results :  NOGO
+injection RAM = 25.802999999999997 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 28.799999999999997 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+QUEVI, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 22.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+AVRIM, demande : 50 MW?, results :  NOGO
+injection RAM = 26.220000000000002 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 21.6 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+ALTKI, demande : 50 MW?, results :  NOGO
+injection RAM = 53.04 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 24.479999999999997 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GANTE, demande : 50 MW?, results :  NOGO
+injection RAM = 5.473999999999997 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 41.040000000000006 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+BAYON, demande : 50 MW?, results :  NOGO
+injection RAM = 21.5 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 25.2 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+BROUS, demande : 50 MW?, results :  NOGO
+injection RAM = 30.817999999999998 MW, vs limitations perennes = 2000 h, temporaires = 2000 h
+sous-tirage RAM = 26.64 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+FLERS, demande : 50 MW?, results :  NOGO
+injection RAM = 107.032 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 77.76 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BIGNA, demande : 50 MW?, results :  NOGO
+injection RAM = 20.8 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 16.56 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+HEINL, demande : 50 MW?, results :  NOGO
+injection RAM = 91.884 MW, vs limitations perennes = 0 h, temporaires = 0 h
+sous-tirage RAM = 44.28 MW, vs limitations perenne = 2000 h, temporaire = 2000 h
+
+
+AVELI, demande : 50 MW?, results :  NOGO
+injection RAM = 113.37599999999999 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 58.32000000000001 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+PALEN, demande : 50 MW?, results :  NOGO
+injection RAM = 46.806000000000004 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 28.8 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+PALLU, demande : 50 MW?, results :  NOGO
+injection RAM = 0.0 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 31.679999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+MAINV, demande : 50 MW?, results :  NOGO
+injection RAM = 328.7 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 159.0 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+CHAIN, demande : 50 MW?, results :  NOGO
+injection RAM = 6.193999999999998 MW, vs limitations perennes = 0 h, temporaires = 2000 h
+sous-tirage RAM = 17.1 MW, vs limitations perenne = 0 h, temporaire = 2000 h
+
+
+BLANZ, demande : 50 MW?, results :  NOGO
+injection RAM = 60.339999999999996 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 61.5 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
+GENEU, demande : 50 MW?, results :  NOGO
+injection RAM = 59.29 MW, vs limitations perennes = 2000 h, temporaires = 0 h
+sous-tirage RAM = 47.519999999999996 MW, vs limitations perenne = 2000 h, temporaire = 0 h
+
+
