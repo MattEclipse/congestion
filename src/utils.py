@@ -199,4 +199,29 @@ def show_map_substation_gradient(df, name_column_value,fig_title, bar_title, nam
         )
 
     fig.show()
+    
+## look into capareseau and return :
+
+def get_closest_post(df,my_GeopointPoste, n_voisins):
+    dist = []
+    for index, row in df.iterrows():
+        lon = []
+        lat = []
+        
+        lon.append(row['lon'])
+        lat.append(row['lat'])
+        lon.append(my_GeopointPoste[1])
+        lat.append(my_GeopointPoste[0])
+        
+        dist.append(length_from_coordinate(lon,lat))
+        
+    df_res = df.copy()
+    df_res['dist_to_my_poste'] = dist
+    
+    df_voisins = df_res.sort_values(by='dist_to_my_poste', ascending=True)
+    
+    return df_voisins.iloc[:n_voisins]
+        
+        
+        
             
