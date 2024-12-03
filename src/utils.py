@@ -4,6 +4,7 @@ import seaborn as sns
 import math
 import geopy.distance
 import plotly.graph_objects as go
+import numpy as np
 
 
 # for all df
@@ -204,21 +205,27 @@ def show_map_substation_gradient(df, name_column_value,fig_title, bar_title, nam
 
 def get_closest_post(df,my_GeopointPoste, n_voisins):
     dist = []
+    indexes_to_drop = []
     for index, row in df.iterrows():
-        lon = []
-        lat = []
+        longitudes = []
+        latitudes = []
         
-        lon.append(row['lon'])
-        lat.append(row['lat'])
-        lon.append(my_GeopointPoste[1])
-        lat.append(my_GeopointPoste[0])
+        lon_poste = row['lon']
+        lat_poste = row['lat']
         
-        dist.append(length_from_coordinate(lon,lat))
-        
+        if pd.isna(lon_poste) or pd.isna(lat_poste):
+            indexes_to_drop.append(index)
+        else :
+            longitudes.append(lon_poste)
+            latitudes.append(lat_poste)
+            longitudes.append(my_GeopointPoste[1])
+            latitudes.append(my_GeopointPoste[0])
+            dist.append(length_from_coordinate(latitudes,longitudes)/1000)
     df_res = df.copy()
-    df_res['dist_to_my_poste'] = dist
+    df_res.drop(indexes_to_drop, inplace =True)
+    df_res['dist_to_my_poste_km'] = dist
     
-    df_voisins = df_res.sort_values(by='dist_to_my_poste', ascending=True)
+    df_voisins = df_res.sort_values(by='dist_to_my_poste_km', ascending=True)
     
     return df_voisins.iloc[:n_voisins]
         
