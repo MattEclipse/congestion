@@ -120,24 +120,12 @@ def hist_plot_2(df, Y_name):
         # Display the plot
         plt.show()
         
-        
-# Specificaly for data/lignes-aeriennes-rte-nv.csv
-
-def length_from_coordinate(longitudes, latitudes):
-    
-    total_length = 0
-
-    for i in range(len(longitudes) - 1):
-        coords_1 = (latitudes[i],longitudes[i])
-        coords_2 = (latitudes[i+1],longitudes[i+1])
-        total_length += geopy.distance.geodesic(coords_1, coords_2).m
-        
-    return total_length
 
 # Specificaly for substation dataset
 
 def show_map_substation_gradient(df, name_column_value,fig_title, bar_title, name_column_text ='text', scale_reverse = False ):
-    
+    val_max = df[name_column_value].max()
+    print(val_max)
     fig = go.Figure(data=go.Scattergeo(
             locationmode = 'country names',
             lon = df['lon'],
@@ -156,12 +144,12 @@ def show_map_substation_gradient(df, name_column_value,fig_title, bar_title, nam
                 ),
                 colorscale = [
                     [0,  'limegreen'],
-                    [0.6,  'gold'],
+                    [1-50/val_max,  'gold'],
                     [1, 'crimson']
                 ],
                 cmin = 0,
                 color = df[name_column_value],
-                cmax = df[name_column_value].max(),
+                cmax = val_max,
                 colorbar=dict(
                     title=dict(
                         text=bar_title
@@ -212,7 +200,6 @@ def get_closest_post(df,my_GeopointPoste, n_voisins):
         
         lon_poste = row['lon']
         lat_poste = row['lat']
-        
         if pd.isna(lon_poste) or pd.isna(lat_poste):
             indexes_to_drop.append(index)
         else :
@@ -229,6 +216,19 @@ def get_closest_post(df,my_GeopointPoste, n_voisins):
     
     return df_voisins.iloc[:n_voisins]
         
+        
+# Specificaly for data/lignes-aeriennes-rte-nv.csv
+
+def length_from_coordinate(longitudes, latitudes):
+    
+    total_length = 0
+
+    for i in range(len(longitudes) - 1):
+        coords_1 = (latitudes[i],longitudes[i])
+        coords_2 = (latitudes[i+1],longitudes[i+1])
+        total_length += geopy.distance.geodesic(coords_1, coords_2).m
+        
+    return total_length
         
         
             
