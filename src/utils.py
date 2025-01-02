@@ -5,6 +5,7 @@ import math
 import geopy.distance
 import plotly.graph_objects as go
 import numpy as np
+import json
 
 
 # for all df
@@ -232,3 +233,68 @@ def length_from_coordinate(longitudes, latitudes):
         
         
             
+            
+# Visualize lines
+
+def show_map_lines(df : pd.DataFrame, light_version : bool):
+    
+    # Create an empty figure
+    fig = go.Figure()
+
+    # Param
+    colors_tension = {'400kV' : 'red', '225kV' : 'green',
+                    '150kV' : 'blue', '90kV' : 'orange',
+                    '63kV' : 'magenta', '45kV' : 'yellow',
+                    '<45kV' : 'purple', 'HORS TENSION' : 'black'}
+    # Iterate over each row in the DataFrame
+    for index, row in df.iterrows():
+        # Parse the JSON string in the 'Geo Shape' column
+        try:
+            geo_data = json.loads(row['Geo Shape'])
+        except json.JSONDecodeError:
+            print(f"Error parsing JSON for row {index}. Skipping this row.")
+            continue
+        line_tension = row['TENSION']
+
+        # Extract coordinates
+        if "coordinates" in geo_data and isinstance(geo_data["coordinates"], list):
+            longitudes, latitudes = zip(*geo_data["coordinates"])
+            
+            if light_version:
+                longitudes = [longitudes[0], longitudes[-1]]
+                latitudes = [latitudes[0], latitudes[-1]]
+
+            # Add a trace for this line
+            fig.add_trace(go.Scattermap(
+                mode = "lines",
+                lon = longitudes,
+                lat = latitudes,
+                name = f"Line {index}",  # You can replace this with a more meaningful name if available
+                line = dict(width = 2),
+                marker_color = colors_tension[line_tension]
+            ))
+        else:
+            print(f"No valid coordinates found for row {index}. Skipping this row.")
+
+    # Update the layout
+    fig.update_layout(
+        geo=dict(
+            scope='europe',  # You can change this to a specific country or region
+            projection_type='natural earth',
+            showland=True,
+            landcolor='rgb(243, 243, 243)',
+            countrycolor='rgb(204, 204, 204)',
+            coastlinecolor='rgb(204, 204, 204)',
+            showocean=True,
+            oceancolor='rgb(230, 230, 250)',
+            center=dict(
+                lon=longitudes[0],  # Center on the first longitude
+                lat=latitudes[0]    # Center on the first latitude
+            ),
+        ),
+        showlegend=False,
+        title='Some lines in France'
+        )
+    # Show the figure
+    fig.show()
+
