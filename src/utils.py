@@ -327,6 +327,6 @@ def distance_matrix_geodesic(x):
         for j in range(i):
             result[i,j] = geopy.distance.geodesic(x[i],x[j]).m
  
-    S = result + result.T - np.diag(np.diag(result))
+    S = result + result.T
     
     return S
