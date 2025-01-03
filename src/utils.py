@@ -298,3 +298,35 @@ def show_map_lines(df : pd.DataFrame, light_version : bool):
     # Show the figure
     fig.show()
 
+
+# Matrice adjacente 
+
+def distance_matrix_geodesic(x):
+    """Compute the distance matrix.
+
+    Returns the matrix of all pair-wise distances.
+
+    Parameters
+    ----------
+    x : (M, K) array_like
+        Matrix of M vectors in 2 dimensions.
+
+
+    Returns
+    -------
+    S : (M, M) ndarray
+        Matrix containing the distance from every vector in `x` to each other
+
+    """
+
+    x = np.asarray(x)
+    m, k = x.shape
+
+    result = np.empty((m,m),dtype=float)
+    for i in range(m):
+        for j in range(i):
+            result[i,j] = geopy.distance.geodesic(x[i],x[j]).m
+ 
+    S = result + result.T - np.diag(np.diag(result))
+    
+    return S
